@@ -20,7 +20,8 @@
 
 #define CREATE_TRACE_POINTS
 #include <trace/events/gpio.h>
-#include <../power/oem_external_fg.h>
+/*add for dash adapter update*/
+#include "../power/oem_external_fg.h"e
 
 /* Implementation infrastructure for GPIO interfaces.
  *
